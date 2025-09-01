@@ -1,0 +1,28 @@
+{
+    "Rukun iman" :{
+        "judul" : "Al-Arkanul Iman",
+        "jumlah" : "6",
+        "Al-Arkanul iman" :
+        [
+        "Al-imanu lillah",
+        "wa malaaikatihi",
+        "wa kutubihi",
+        "wa rusulihi",
+        "Wal yaumil aakhir",
+        "wal qodari khoirihi wa syarrihi"
+        ]
+    },
+
+    "Rukun Islam" : {
+        "judul" : "Arkanul Islam",
+        "jumlah" : "5",
+        "Arkanul Islam" :
+        [
+        "Syahadatain",
+        "Sholat",
+        "Zakat",
+        "Puasa",
+        "Haji"
+        ]
+    }
+}
