@@ -1,7 +1,0 @@
-link2 ny:
-- [Hour of Code] https://drive.google.com/file/d/1YCn6a63wXrLZFEaW6Mxiwl410mULU9Nt/view?usp=drive_link
-- [Profil digital] https://drive.google.com/file/d/1ACYfMvYqAroz0RNxqRhUHaNnn2BKuTHr/view?usp=sharing
-- [Flowchart] https://drive.google.com/file/d/1Bun-8bWgS0vro2kVSg1HQ9yQYKWBhlAu/view?usp=sharing
-- [Data structure] https://drive.google.com/file/d/1hDxHbobzv_gu61KU6JMg8osBbhVdMxWW/view?usp=sharing
-- [Imort funct] https://drive.google.com/file/d/1_15hGw7C4WHU0aFQlhlOQu8-D3BiAim9/view?usp=sharing
-- [CSV Handling] https://drive.google.com/drive/folders/1FYRI1Lxdp4fUPOCZ6kIoppiYUM3rSWp4?usp=sharing
