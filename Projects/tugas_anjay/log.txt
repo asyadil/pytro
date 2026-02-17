@@ -1,0 +1,29 @@
+[2026-02-13 21:28:40.056754] User cangak_player logged in
+[2026-02-13 21:28:44.274839] User cangak_player checked their balance
+[2026-02-13 21:29:52.812177] User cangak_player logged in
+[2026-02-13 21:29:56.881322] User cangak_player checked their balance
+[2026-02-13 21:31:08.598125] User cangak_player logged in
+[2026-02-13 21:31:10.912624] User cangak_player checked their balance
+[2026-02-16 20:08:32.388169] User cangak_player logged in
+[2026-02-16 20:08:36.365331] User cangak_player checked their balance
+[2026-02-16 20:08:43.184194] User cangak_player deposited money
+[2026-02-16 20:08:51.071930] User cangak_player checked their balance
+[2026-02-16 20:09:06.423095] User cangak_player withdrew money
+[2026-02-16 20:09:14.794697] User cangak_player checked their balance
+[2026-02-16 20:09:18.294983] User cangak_player deposited money
+[2026-02-16 20:09:25.737876] User cangak_player withdrew money
+[2026-02-17 19:51:35.872299] User cangak_player logged in
+[2026-02-17 19:57:45.924644] A new account is created with username False
+[2026-02-17 19:58:10.985904] A new account is created with username True
+[2026-02-17 19:58:26.344381] User Rafif logged in
+[2026-02-17 19:58:42.120610] User Rafif checked their balance
+[2026-02-17 19:58:52.003881] User Rafif deposited money
+[2026-02-17 20:08:04.907748]User trying for create an account but the operation is failed[2026-02-17 20:08:13.974384] A new account is created with username asdas
+[2026-02-17 20:08:25.611248] User cangak_player logged in
+[2026-02-17 20:14:14.214801] A new account is created with username bang_hamka
+[2026-02-17 20:14:24.598005] User bang_hamka logged in
+[2026-02-17 20:14:27.544480] User bang_hamka checked their balance
+[2026-02-17 20:14:31.101040] User bang_hamka deposited money
+[2026-02-17 20:14:38.771492] User bang_hamka withdrew money
+[2026-02-17 20:14:44.815311] User bang_hamka deposited money
+[2026-02-17 20:14:50.933360] User bang_hamka withdrew money
