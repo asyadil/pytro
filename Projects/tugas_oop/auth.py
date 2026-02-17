@@ -2,7 +2,7 @@
 import json
 from typing import Dict, Any, Optional
 
-database_json: str = "tugas_anjay/accounts_database.json"
+database_json: str = "tugas_oop/accounts_database.json"
 
 class Login:
     @staticmethod

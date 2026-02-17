@@ -10,7 +10,7 @@ class Main_menu:
 
     @staticmethod
     def balance_chek(username):
-        with open("tugas_anjay/accounts_database.json", "r") as file:
+        with open("tugas_oop/accounts_database.json", "r") as file:
             data = json.load(file)
 
         balance = data[username]["balance"]
@@ -22,10 +22,10 @@ class Main_menu:
     def deposit(username):
         amount = int(input("Input the deposit amount\n> "))
 
-        with open("tugas_anjay/accounts_database.json", "r") as file:
+        with open("tugas_oop/accounts_database.json", "r") as file:
             data = json.load(file)
             data[username]["balance"] += amount
-            with open("tugas_anjay/accounts_database.json", "w") as file:
+            with open("tugas_oop/accounts_database.json", "w") as file:
                 json.dump(data, file, indent=4)
         
         print(f"Deposit is done successfully\nYour current balance is: Rp.{data[username]["balance"]},-")
@@ -40,7 +40,7 @@ class Main_menu:
         amount = int(amount)
 
         while True:
-            with open("tugas_anjay/accounts_database.json", "r") as file:
+            with open("tugas_oop/accounts_database.json", "r") as file:
                 data = json.load(file)
                 
                 data[username]["balance"] = int(data[username]["balance"])
@@ -48,7 +48,7 @@ class Main_menu:
                 current_balance = (data[username]["balance"])
                 if current_balance >= amount:
                     data[username]["balance"] -= amount
-                    with open("tugas_anjay/accounts_database.json", "w") as file:
+                    with open("tugas_oop/accounts_database.json", "w") as file:
                         json.dump(data, file, indent=4)
                     print(f"Withdraw success\nYour current balance is: Rp.{data[username]['balance']},-")
                     return True

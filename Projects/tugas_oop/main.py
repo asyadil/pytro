@@ -13,7 +13,7 @@ def main_menu():
         return menu_choice
 
 def log(message: str) -> None:
-    with open("tugas_anjay/log.txt", "a") as file:
+    with open("tugas_oop/log.txt", "a") as file:
         file.write(message)
 
 def main():
